@@ -1,2 +1,3 @@
 Преобразование из Figme в html and css
-<img width="1020" height="910" alt="image" src="https://github.com/user-attachments/assets/b8e9cd35-b40f-4aa2-8993-8362e775869a" />
+<img width="1022" height="891" alt="image" src="https://github.com/user-attachments/assets/0891579f-339e-4027-a69b-b442633e7269" />
+
